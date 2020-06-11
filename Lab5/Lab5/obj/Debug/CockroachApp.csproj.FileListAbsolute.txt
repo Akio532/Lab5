@@ -1,0 +1,16 @@
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\bin\Debug\CockroachApp.exe
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\bin\Debug\CockroachApp.pdb
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.csprojAssemblyReference.cache
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.Form1.resources
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.Properties.Resources.resources
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.csproj.GenerateResource.cache
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.exe
+C:\Users\Vorobeva\Desktop\file_210644_CSFz0OkfxV\CockroachApp\CockroachApp\obj\Debug\CockroachApp.pdb
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\bin\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\bin\Debug\CockroachApp.pdb
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.csprojAssemblyReference.cache
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.Form1.resources
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.Properties.Resources.resources
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.csproj.GenerateResource.cache
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.pdb

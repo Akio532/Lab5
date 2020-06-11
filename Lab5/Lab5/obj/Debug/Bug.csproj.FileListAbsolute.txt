@@ -1,0 +1,25 @@
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\bin\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\bin\Debug\CockroachApp.pdb
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\Bug.csprojAssemblyReference.cache
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.Properties.Resources.resources
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\Bug.csproj.GenerateResource.cache
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\CockroachApp.pdb
+C:\Users\eMahines\Desktop\CockroachApp\CockroachApp\obj\Debug\Bug.Form1.resources
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\Bug.csprojAssemblyReference.cache
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\Bug.Form1.resources
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\CockroachApp.Properties.Resources.resources
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\Bug.csproj.GenerateResource.cache
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\Bug\CockroachApp\obj\Debug\CockroachApp.pdb
+C:\Users\eMahines\Desktop\Bug\CockroachApp\bin\Debug\CockroachApp.exe
+C:\Users\eMahines\Desktop\Bug\CockroachApp\bin\Debug\CockroachApp.pdb
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\bin\Debug\CockroachApp.exe
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\bin\Debug\CockroachApp.pdb
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\Bug.csprojAssemblyReference.cache
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\Bug.Form1.resources
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\CockroachApp.Properties.Resources.resources
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\Bug.csproj.GenerateResource.cache
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\Bug.csproj.CoreCompileInputs.cache
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\CockroachApp.exe
+C:\Users\sania\OneDrive\Рабочий стол\фывыфвфывыфвдыфзлвдфыв\Bug-20200609T150814Z-001\Bug\CockroachApp\obj\Debug\CockroachApp.pdb
